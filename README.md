@@ -50,6 +50,9 @@ This project is released under a **MIT License** as semi-open source.
 
 For the full license text, please refer to the [LICENSE](LICENSE) file.
 
+## A Quick Note from the Developer
+~~This project is a labor of love. The code might be very messy in places, so please be kind when browsing the source! All constructive feedback is welcome.~~
+
 ## Contact
 
 - **GitHub**: [N123999/XianYuLauncher](https://github.com/N123999/XianYuLauncher)
